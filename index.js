@@ -62,7 +62,7 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
       .setDetails(`เจ้าพุงแมวน้อย`)
       //.setAssetsSmallImage(`${popp}`) 
 .setAssetsLargeImage(`${ssss}`)
-.setAssetsLargeText(`.setAssetsLargeText(`꒰ ${getTime()} ꒱ ${moment().format('• ꒰ DD/MM/YYYY ꒱')}`)
+.setAssetsLargeText(`꒰ ${getTime()} ꒱ ${moment().format('• ꒰ DD/MM/YYYY ꒱')}`)
 .setAssetsSmallText(`ping : ${Math.round(client.ws.ping)}`)
 .addButton(`${ioii}`,`${oooi}`)  
 
